@@ -30,14 +30,14 @@ implement your own abstract data type.
 
 ### Created by
 
-- @apapirovski
+- @jahanvilaravel
 
-### Contributed to by
 
-- @maruthimohan
-- @matthewmorgan
-- @rchavarria
-- @SleeplessByte
+
+
+
+
+
 
 ### Based on
 
